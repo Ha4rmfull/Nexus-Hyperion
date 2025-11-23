@@ -58,7 +58,7 @@ Nexus-Hyperion integrates **24 specialized modules** to provide institutional-gr
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Nexus-Hyperion.git](https://github.com/YOUR_USERNAME/Nexus-Hyperion.git)
+    git clone https://github.com/YOUR_USERNAME/Nexus-Hyperion.git
     cd Nexus-Hyperion
     ```
 
